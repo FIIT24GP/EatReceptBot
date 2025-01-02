@@ -44,3 +44,4 @@ client_id = от Гигачата
  ```bash
      python bot.py
  ```
+![image](https://github.com/user-attachments/assets/6f815088-1bc8-449a-8341-140e4966e960)
